@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'PhantomMuff 1.5';
+    src: url('https://yell038.github.io/fonts/PhantomMuff-Empty-Letters-115.eot');
+    src: url('https://yell038.github.io/fonts/PhantomMuff-Empty-Letters-115.woff') format('woff'),
+         url('https://yell038.github.io/fonts/PhantomMuff-Empty-Letters-115.ttf')  format('truetype'),
+         url('https://yell038.github.io/fonts/PhantomMuff-Empty-Letters-115.svg#PhantomMuff 1.5') format('svg');
+}
