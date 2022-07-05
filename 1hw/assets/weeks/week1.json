@@ -1,0 +1,32 @@
+{
+	"storyName": "ZZZZZZZZZZZZZZZZZZZZZZZZZ",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Files",
+			"zzzzz",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "zzzzz week",
+	"hiddenUntilUnlocked": false
+}

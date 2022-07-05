@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zzzzz.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zzzzz down0000" x="0" y="0" width="404" height="352" pivotX="-0.65" pivotY="-31.85" frameX="0" frameY="-8" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0001" x="0" y="0" width="404" height="352" frameX="0" frameY="-8" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0002" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0003" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0004" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0005" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0006" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0007" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0008" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0009" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0010" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0011" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0012" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0013" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz down0014" x="404" y="0" width="385" height="360" frameX="-9" frameY="0" frameWidth="404" frameHeight="360"/>
+	<SubTexture name="zzzzz idle0000" x="789" y="0" width="393" height="371" pivotX="0" pivotY="0" frameX="-4" frameY="-21" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0001" x="789" y="0" width="393" height="371" frameX="-4" frameY="-21" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0002" x="1182" y="0" width="376" height="376" frameX="-6" frameY="-16" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0003" x="1182" y="0" width="376" height="376" frameX="-6" frameY="-16" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0004" x="1558" y="0" width="378" height="387" frameX="-1" frameY="-5" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0005" x="1558" y="0" width="378" height="387" frameX="-1" frameY="-5" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0006" x="0" y="387" width="377" height="390" frameX="0" frameY="-2" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0007" x="0" y="387" width="377" height="390" frameX="0" frameY="-2" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0008" x="377" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0009" x="377" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0010" x="753" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0011" x="753" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0012" x="753" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0013" x="753" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz idle0014" x="753" y="387" width="376" height="392" frameX="0" frameY="0" frameWidth="397" frameHeight="392"/>
+	<SubTexture name="zzzzz left0000" x="1129" y="387" width="444" height="390" pivotX="77.35" pivotY="-3.75" frameX="0" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0001" x="1129" y="387" width="444" height="390" frameX="0" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0002" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0003" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0004" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0005" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0006" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0007" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0008" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0009" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0010" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0011" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0012" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0013" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz left0014" x="1573" y="387" width="437" height="390" frameX="-8" frameY="0" frameWidth="445" frameHeight="390"/>
+	<SubTexture name="zzzzz right0000" x="0" y="779" width="392" height="396" pivotX="-59.65" pivotY="4.25" frameX="-3" frameY="0" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0001" x="0" y="779" width="392" height="396" frameX="-3" frameY="0" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0002" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0003" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0004" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0005" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0006" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0007" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0008" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0009" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0010" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0011" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0012" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0013" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz right0014" x="392" y="779" width="380" height="394" frameX="0" frameY="-2" frameWidth="395" frameHeight="396"/>
+	<SubTexture name="zzzzz up0000" x="772" y="779" width="373" height="442" pivotX="-30.25" pivotY="51.45" frameX="-2" frameY="0" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0001" x="772" y="779" width="373" height="442" frameX="-2" frameY="0" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0002" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0003" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0004" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0005" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0006" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0007" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0008" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0009" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0010" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0011" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0012" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0013" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+	<SubTexture name="zzzzz up0014" x="1145" y="779" width="369" height="430" frameX="0" frameY="-12" frameWidth="375" frameHeight="442"/>
+</TextureAtlas>

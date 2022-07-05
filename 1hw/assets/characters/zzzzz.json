@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zzzzz idle"
+		},
+		{
+			"offsets": [
+				105,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zzzzz left"
+		},
+		{
+			"offsets": [
+				-78,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zzzzz right"
+		},
+		{
+			"offsets": [
+				-41,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zzzzz up"
+		},
+		{
+			"offsets": [
+				-6,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zzzzz down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zzzzz",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "zzzzz",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
